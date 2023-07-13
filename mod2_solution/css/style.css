@@ -85,7 +85,7 @@
       width: 94.5%;
     }
   }
-  @media (min-width:0px) and (max-width: 767px){
+  @media (min-width: 0px) and (max-width: 767px){
     .col-sm-12 {
       float: left;
       text-align: center;
