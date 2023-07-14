@@ -94,6 +94,11 @@
       border: 1px solid black;
         width: 95.5%;
       }
+      .row{
+        width: 90%;
+        margin: auto;
+        align-items: center;
+      }
 
   }
   
