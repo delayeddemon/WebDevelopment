@@ -3,7 +3,7 @@ body{
     font-family: 'Pangolin', cursive;
 }
 .bold{
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
 }
 
@@ -27,7 +27,7 @@ body{
 }
 .navbar-toggler{
     border: 1px solid black;
-    margin :10px;
+    margin :5px;
 }
 #navbarid{
     padding: 0px ;
