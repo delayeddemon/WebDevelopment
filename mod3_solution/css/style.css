@@ -3,12 +3,16 @@ body{
     font-family: 'Pangolin', cursive;
 }
 .bold{
-    font-size: 1.2em;
+    font-size: 2em;
     font-weight: bold;
 }
 
 .grey{
     background-color: rgb(163, 161, 161);
+    box-shadow: 1px solid black;
+}
+.dgrey{
+    background-color: rgb(133, 197, 170);
     box-shadow: 1px solid black;
 }
 .nav-item{
