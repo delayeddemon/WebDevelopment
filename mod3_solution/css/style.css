@@ -33,6 +33,22 @@ body{
     padding: 0px ;
     
 }
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+  }
+  .sticky + .container {
+    padding-top: 100px;
+  }
+.main-navbar{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:0;
+    z-index: 910;
+}
 .bold{
     margin-left:30px;
 }
